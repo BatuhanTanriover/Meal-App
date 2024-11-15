@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "items": [
+      {
+        "id": "m2",
+        "name": "Margherita Pizza",
+        "price": "12.99",
+        "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+        "image": "images/margherita-pizza.jpg",
+        "quantity": 4
+      }
+    ],
+    "customer": {
+      "name": "batuhan tanrıöver",
+      "email": "batu_2000_10@hotmail.com",
+      "street": "asmalıevler mah. 6666. sok. önal apart no:30 kat:2 daire:5",
+      "postal-code": "20160",
+      "city": "PAMUKKALE"
+    },
+    "id": "846.4468028753067"
+  }
+]
